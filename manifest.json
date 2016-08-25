@@ -1,0 +1,18 @@
+{
+   "browser_action": {
+      "default_icon": "/images/icon_19.png",
+      "default_popup": "/html/index.html"
+   },
+   "description": "An open source password manager",
+   "icons": {
+      "128": "/images/icon_128.png",
+      "16": "/images/icon_16.png",
+      "48": "/images/icon_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrOCcN6PTfMY0pJVCT8TnPun3RFv/gbhZ36I68bbaIkatOTjwZ+Udw3fzSVVFRoY4hYcb1dqrOrXojXtIickR6gA3lVsfy72Ti3KOrLLwDHLWkzQmBemD73atio/oFYG/RneG5DCiSnmulmXqD2kBhbTk95i6pRiZ+Q0kmavOZIQIDAQAB",
+   "manifest_version": 2,
+   "name": "One Shall Pass",
+   "permissions": [ "tabs", "*://oneshallpass.com/*", "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.1"
+}
